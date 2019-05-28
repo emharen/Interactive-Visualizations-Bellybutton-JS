@@ -35,7 +35,6 @@ function buildCharts(sample) {
     var layout = {
         showlegend: false,
         height: 600,
-        width: 1500
     };
 
     Plotly.newPlot('bubble', trace1, layout);
