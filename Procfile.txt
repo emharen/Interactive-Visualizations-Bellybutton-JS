@@ -1,1 +1,1 @@
-web: gunicorn bellybuttonerika.app:app
+web: gunicorn app:app
